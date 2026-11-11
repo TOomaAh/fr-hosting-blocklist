@@ -1,0 +1,9 @@
+# ASN des hébergeurs français à bloquer (un par ligne, commentaire après #)
+# Vérifier un ASN : https://bgp.he.net/AS16276
+# Ne PAS ajouter de réseaux d'accès grand public (ex : AS35540 OVH Télécom).
+
+16276   # OVHcloud
+12876   # Scaleway / Online
+29169   # Gandi
+21409   # Ikoula
+50474   # o2switch
